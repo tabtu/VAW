@@ -1,0 +1,2 @@
+C:\ttxy\workspace\GIT\VAW\VAW\VAW\bin\Debug\VAW.exe.config
+C:\ttxy\workspace\GIT\VAW\bin\Debug\VAW.exe.config
